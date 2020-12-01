@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Evenement"
+    }
+  },
+  "defaultProject": "Evenement",
+  "cli": {
+    "analytics": "8529a3d5-75b0-4ebd-bf35-0f143c4d9e01"
+  }
 }
